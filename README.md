@@ -1,2 +1,2 @@
 # hello-world
-for aducation
+for aducation in programming
